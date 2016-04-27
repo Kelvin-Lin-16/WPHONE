@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF4B358A-30AE-45F1-AE49-2746C18BF3A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WNPhone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8C41DF6F344A3E7E8EE6E496FA9C1E263DB2D6C5</key>
+		<string>https://gitcafe.com/weapon3042/WNPhone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WNPhone.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8C41DF6F344A3E7E8EE6E496FA9C1E263DB2D6C5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://gitcafe.com/weapon3042/WNPhone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8C41DF6F344A3E7E8EE6E496FA9C1E263DB2D6C5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C41DF6F344A3E7E8EE6E496FA9C1E263DB2D6C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WNPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
